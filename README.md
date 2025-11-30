@@ -1,14 +1,39 @@
 # app-dev
 My first repository
 
-# My Favorite Series
+# My Favorite Series: Frieren: Beyond Journey's End
+
 **Series:** Frieren: Beyond Journey's End  
-*Genre:* Fantasy, Adventure, Drama, Action  
+*Genre:* Fantasy, Adventure, Drama  
+
+![Frieren Image](https://upload.wikimedia.org/wikipedia/en/0/0c/Frieren_manga_cover.jpg)
+
+## Overview
+Frieren follows the story of an elven mage, **Frieren**, who reflects on her long life after the defeat of the Demon King. Unlike typical adventure stories, it explores **time, relationships, and the meaning of life** after the quest ends.
 
 ## Why I Like It
-- Deep and thoughtful storytelling  
-- Unique take on life after the adventure  
-- Beautiful character development and world-building  
+- **Deep storytelling:** Focuses on character growth rather than just battles  
+- **Unique perspective:** Shows life after the “heroic adventure” is over  
+- **Beautiful art and world-building:** Every scene feels alive  
+- **Emotional impact:** Moments of joy, loss, and reflection hit hard  
 
-[Official Website](https://www.frieren.jp/)  
+## Favorite Characters
+1. **Frieren** – The mage of the heroes party that defeated the demon king and one of the most powerful mages in history
+2. **Stark** – A young man who's always afraid yet with enough resolve, he overcomes it.  
+3. **Fern** – A talented young mage who has the potential to surpass frieren.
+
+## Memorable Quote
+> “Time flows differently for everyone. What we think is a long journey may be just a blink for another.”  
+
+## Fun Fact
+Even though Frieren is **an elf who lives for centuries**, her emotions and curiosity about humans make her very relatable.
+
+## How I Would Recommend It
+- If you enjoy **emotional fantasy with philosophical themes**, this series is perfect  
+- Great for those who like **slice-of-life mixed with adventure**  
+
+## Reference
+Official Website: [Frieren: Beyond Journey’s End](https://www.frieren.jp/)
+
+
 
