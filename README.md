@@ -6,7 +6,6 @@ My first repository
 **Series:** Frieren: Beyond Journey's End  
 *Genre:* Fantasy, Adventure, Drama  
 
-![Frieren Image](https://upload.wikimedia.org/wikipedia/en/0/0c/Frieren_manga_cover.jpg)
 
 ## Overview
 Frieren follows the story of an elven mage, **Frieren**, who reflects on her long life after the defeat of the Demon King. Unlike typical adventure stories, it explores **time, relationships, and the meaning of life** after the quest ends.
