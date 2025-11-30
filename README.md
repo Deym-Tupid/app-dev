@@ -28,8 +28,10 @@ Frieren follows the story of an elven mage, **Frieren**, who reflects on her lon
 Even though Frieren is **an elf who lives for centuries**, her emotions and curiosity about humans make her very relatable.
 
 ## How I Would Recommend It
-- If you enjoy **emotional fantasy with philosophical themes**, this series is perfect  
-- Great for those who like **slice-of-life mixed with adventure**  
+- If you enjoy **emotional fantasy with philosophical themes**, this series is perfect.  
+- Great for those who like **slice-of-life mixed with adventure**
+- Amazing **fight choreography and animation** such a eye candy, eben the simplest thing such as hand gestures, hair blwoing on the wind, or putting on a cloak is animated **beautifully**
+- If you want a **real fantasy feel** in you're animated series, Frieren: Beyond Journey's End is what you're looking for.
 
 ## Reference
 Official Website: [Frieren: Beyond Journey’s End](https://www.frieren.jp/)
